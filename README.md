@@ -1,4 +1,6 @@
 ## Codes for "DROP: Deep relocating option policy for optimal ride-hailing vehicle repositioning"
+The preprint can be found at [https://arxiv.org/pdf/2109.04149.pdf].
+
 We are happy to help if you have any questions. If you used any part of the code, please cite the following paper:
 
 @article{qian2021drop,
