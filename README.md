@@ -51,5 +51,5 @@ We are happy to help if you have any questions. If you used any part of the code
 - simulator: key processes of vehcile-customer interaction
 - settings: config for simulation
 
-2. 13. tools:  driver for saving files, dot dictionary to save parameters.
+2.13. tools:  driver for saving files, dot dictionary to save parameters.
 
