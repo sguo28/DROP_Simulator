@@ -1,11 +1,21 @@
-### 1 preliminaries
+## Codes for "DROP: Deep relocating option policy for optimal ride-hailing vehicle repositioning"
+We are happy to help if you have any questions. If you used any part of the code, please cite the following paper:
+
+@article{qian2021drop,
+  title={DROP: Deep relocating option policy for optimal ride-hailing vehicle repositioning},
+  author={Qian, Xinwu and Guo, Shuocheng and Aggarwal, Vaneet},
+  journal={arXiv preprint arXiv:2109.04149},
+  year={2021}
+}
+
+## 1 preliminaries
 1.1. INSTALL:
         conda install skimage
         conda install -c anaconda sqlalchemy
         conda install -c conda-forge polyline
 
 
-### 2 folder descriptions
+## 2 folder descriptions
 2.0. root folder
         - experiment: initalize vehicle location, populate vehicles, enter market, match, dispatch, and update.
         - main: run the simulation and DQN learning(if enabled), record metrics.
