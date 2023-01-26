@@ -1,14 +1,23 @@
-## Codes for "DROP: Deep relocating option policy for optimal ride-hailing vehicle repositioning"
-The preprint can be found at [https://arxiv.org/pdf/2109.04149.pdf].
+## Code implementation for "DROP: Deep relocating option policy for optimal ride-hailing vehicle repositioning"
+This repo is contributed by Prof. Xinwu Qian (U Alabama), Shuocheng Guo (U Alabama), and Vaneet Aggarwal (Purdue).
+
+This research work is accepted by [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/science/article/pii/S0968090X22003369), and the preprint (initial version) can be found at [ArXiv](https://arxiv.org/pdf/2109.04149.pdf).
 
 We are happy to help if you have any questions. If you used any part of the code, please cite the following paper:
 
-@article{qian2021drop,
+@article{qian2022drop,
   title={DROP: Deep relocating option policy for optimal ride-hailing vehicle repositioning},
   author={Qian, Xinwu and Guo, Shuocheng and Aggarwal, Vaneet},
-  journal={arXiv preprint arXiv:2109.04149},
-  year={2021}
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={145},
+  pages={103923},
+  year={2022},
+  publisher={Elsevier}
 }
+
+
+### Data Inputs 
+The preprocessed large files as data inputs can be fecthed via [OneDrive](https://bama365-my.sharepoint.com/personal/sguo18_crimson_ua_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsguo18%5Fcrimson%5Fua%5Fedu%2FDocuments%2FDROPSimLargeFiles&ga=1).
 
 ## 1 preliminaries
 1.1. INSTALL:
