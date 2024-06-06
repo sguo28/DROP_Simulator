@@ -17,7 +17,9 @@ We are happy to help if you have any questions. If you used any part of the code
 
 
 ### Data Inputs 
-The preprocessed large files as data inputs can be fecthed via [OneDrive](https://bama365-my.sharepoint.com/personal/sguo18_crimson_ua_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsguo18%5Fcrimson%5Fua%5Fedu%2FDocuments%2FDROPSimLargeFiles&ga=1).
+The preprocessed large files as data inputs can be fecthed via [OneDrive](https://bama365-my.sharepoint.com/:f:/g/personal/sguo18_crimson_ua_edu/Etn1ZPhQ20ZNicLpYbCKyyQBy8QlqGfm4kmaEbIugTXiew).
+
+** Note: if the link above doesn't work, please contact with Shuocheng (sguo18@ua.edu) for updated link.
 
 ## 1 preliminaries
 1.1. INSTALL:
